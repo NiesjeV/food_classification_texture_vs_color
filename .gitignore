@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/train_set/
+data/test_set/
+
+# Results/logs
+results/
+experiments/
