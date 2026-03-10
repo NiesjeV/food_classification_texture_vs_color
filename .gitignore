@@ -2,14 +2,36 @@
 __pycache__/
 *.pyc
 *.pyo
+*.py[cod]
+*.so
+.Python
 
 # Jupyter
 .ipynb_checkpoints/
+.ipynb_checkpoints/
+*.ipynb
 
 # Data
 data/train_set/
 data/test_set/
+data/
+*.csv
+*.zip
+*.h5
+*.hdf5
 
 # Results/logs
 results/
 experiments/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+#IDE
+.vscode/
+.idea/
+
+# Kaggle API
+kaggle.json

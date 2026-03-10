@@ -1,0 +1,16 @@
+# Core packages
+numpy>=1.21.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+
+# Deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Development
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+tqdm>=4.64.0
+scikit-learn>=1.0.0
