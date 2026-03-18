@@ -19,6 +19,7 @@ data/
 *.zip
 *.h5
 *.hdf5
+Resultaten/
 
 # Results/logs
 results/
