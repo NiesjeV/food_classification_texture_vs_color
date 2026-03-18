@@ -75,3 +75,7 @@ for epoch in range(num_epochs):
 
 print("="*50)
 print(f"4. Klaar! Laatste accuracy: {epoch_acc:.2f}%")
+
+model_path = 'beste_model.pth'
+torch.save(model.state_dict(), model_path)
+print(f"Model opgeslagen als '{model_path}'")
