@@ -24,6 +24,8 @@ Resultaten/
 # Results/logs
 results/
 experiments/
+checkpoints/
+*/pth
 
 # Virtual Environments
 venv/
